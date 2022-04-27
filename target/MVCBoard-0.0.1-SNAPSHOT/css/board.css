@@ -1,0 +1,22 @@
+@charset "EUC-KR";@charset "UTF-8";
+
+table, th, td {
+	border: 1px solid black;
+}
+table {
+	width: 100%;
+	text-align: center;
+}
+tbody tr {
+	height: 50px;
+}
+th {
+	text-align: center;
+}
+#title {
+	text-align: left;
+}
+a {
+	text-decoration-line: none;
+	color: black;
+}

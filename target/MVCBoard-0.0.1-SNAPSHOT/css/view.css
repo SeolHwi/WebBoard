@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#main {
+	border: 1px solid black;
+	padding: 5px 20px;
+}
+button {
+	margin-top: 10px;
+	font-size: 15px;
+}

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+#write {
+	border: 1px solid;
+	padding: 5px 20px;
+}
+ul {
+	list-style: none;
+	padding: 20px 40px;
+}
+li {
+	padding: 10px 20px;
+}
+select {
+	width: 150px;
+	height: 30px;
+}
+textarea {
+	height: 250px;
+}
+input[type="text"], textarea {
+	padding: 8px;
+	font-size: 16px;
+}
+input[name="TITLE"], [name="CONTENT"] {
+	min-width: 200px;
+	max-width: 750px;
+	width: 90%;
+}
+input[type="button"], input[type="submit"] {
+	margin-top: 10px;
+	font-size: 15px;
+	float: right;
+	margin-right: 2px;
+	margin-left: 10px;
+}
+h1 {
+	text-align: center;
+}
